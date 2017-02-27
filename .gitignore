@@ -1,6 +1,11 @@
-dist
-*.pyc
-__pycache__
-env
-.idea
-int.py
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
